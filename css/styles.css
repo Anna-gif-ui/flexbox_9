@@ -39,7 +39,7 @@ body{
 }
 
 .row{
-    outline: 1px solid blue;
+    /* outline: 1px solid blue; */
     display: flex;
     align-items: center;
     justify-content: space-around;
